@@ -1,1 +1,1 @@
-The vegrant directory
+the vegrant directory
